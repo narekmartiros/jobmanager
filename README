@@ -1,0 +1,11 @@
+To build the project run:
+g++ tester.cpp -o tester
+g++ job_manager.cpp -o job_manager
+
+commands from /job_manager directory.
+
+After run 'job_manager' exe by giving tester name. Example
+./job_manager tester
+
+It will run all functions defined in tester.cpp file and report about results on standard output.
+
